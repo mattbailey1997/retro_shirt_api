@@ -1,0 +1,98 @@
+[
+{
+  "model": "shirts.shirt",
+  "pk": 6,
+  "fields": {
+    "name": "Manchester United Home Football Shirt",
+    "year": 1996,
+    "description": "Short-sleeved home shirt. This shirt was worn by a 22 year old David Beckham who won the PFA Young Player of the Year that seasonl!",
+    "link": "https://www.uksoccershop.com/p-239074/1996-manchester-united-home-football-shirt.html?currency=GBP&gcountry=UK&ovId=3429&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAS3LggumJHYA0VpUFasRvAs6kuiPjIP16daswDJfSirS7TSu3B6IB4aAhkQEALw_wcB",
+    "brand": "Umbro",
+    "primary_image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTEhIVFRUXGBUYGBYXFxUXFxYXFRUXFxUVFxUYHiggGBonGxUVIjEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGi0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABAIDBQYHAQj/xABNEAACAQICBgYECgMOBwEAAAABAgADEQQhBRIxQVFhBgcTInGBMpGhsSRCcnOCkrPBwvAjUtEUFTQ1U1Rig5Oio7LS4yUzQ0RjdNMX/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAECAwQGBf/EADgRAAIBAgMECAIJBQEAAAAAAAABAgMRBCExBRJBURNhcYGRocHRMjQiIzNCUnKx4fAVYoLC8RT/2gAMAwEAAhEDEQA/AO4xEQBERAEREAREQBERAE1nTfTzR2EYpXxdMOMii61RweBSmCVPjHWF0kGAwNWvl2hGpRB31XB1ct4GbEcFM+T3oOe9ZjfO+0k7yYuSouWiufRWO67tGJki4irzWmFH+Iyn2SEevfBbsLif8H/XOAmk42q3qMtloIa3dcjvtTr4wu7B4g+JpD7zKqXXvhL9/CYgD+iaTewsJwEPLiUHbYrHyPvgmK3nZZn1T0Z6xNHY1glGtq1TspVFKOfk3yc5HJSZts+LaF1IKkhgQQwJBBGYII2EHfPqHqw6Vfvhgldz+mpns63NgMqluDLY+OsN0EG4xEQBERAEREAREQBERAEREAREQBERAEREARExWmtP4XCrrYiulPK4BPfa36qDvN5CAlfJGVkfF4pKSF6jqiKLlmIAAG0kmco091yHNcFh99u0r7PEUlOzxYeE0rpZpvEHDB8TWapXxF2AOS0qV",
+    "image_two": "https://hips.hearstapps.com/ell.h-cdn.co/assets/16/31/1996-gettyimages-515909430.jpg",
+    "image_three": "https://cdn.bleacherreport.net/images_root/article/media_slots/photos/000/443/661/1236131_crop_340x234.jpg?1338352657",
+    "league": "Premier League",
+    "price": "69.99"
+  }
+},
+{
+  "model": "shirts.shirt",
+  "pk": 7,
+  "fields": {
+    "name": "Chelsea Home Kit",
+    "year": 1997,
+    "description": "Short-sleeved shirt worn by Gianfranco Zola with the classic AutoGlass sponsorship in the centre!",
+    "link": "https://www.kitbag.com/en/league/international_clubs/team/chelsea/category/default/browse/featuredproduct/12017786/chelsea/o-8920+t-9062+f-12017786?_s=GPA_CA-KB-uk&cur=GBP&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQ1xyVAWqsULzSo_BZbxQb6TyxrBk1MX6QvJncFY1t6fPevMONXy6kaAuqlEALw_wcB&loc=en-GB&sku=33360528&utm_medium=cse",
+    "brand": "Umbro",
+    "primary_image": "https://www.vintagefootballshirts.com/uploads/products/images/1997-99-chelsea-umbro-home-shi-42094-1.jpg",
+    "image_two": "https://pbs.twimg.com/media/EuYJCkfXYAQWwss.jpg",
+    "image_three": "https://images.classicfootballshirts.co.uk/pub/media/catalog/product/c/h/chelsea-97-home-zola-pslex_1_2_2_3_3_1_2_1.jpg",
+    "league": "Premier League",
+    "price": "35.00"
+  }
+},
+{
+  "model": "shirts.shirt",
+  "pk": 8,
+  "fields": {
+    "name": "Arsenal Invincibles Shirt",
+    "year": 2003,
+    "description": "Short-sleeved Arsenal home kit. This kit was made famous by Thierry Henry in his prime when Arsenal went on to do the only ever season without losing a game!",
+    "link": "https://www.thrifted.com/products/vintage-arsenal-nike-football-shirt-mens-red-xx-large-182605?variant=42059914182816",
+    "brand": "Nike",
+    "primary_image": "https://cdn.footballkitarchive.com/2020/12/31/UT51R3i8H2JDA51.jpg",
+    "image_two": "https://d.ibtimes.co.uk/en/full/1428549/thierry-henry.jpg",
+    "image_three": "https://www.iffhs.com/storage/img/posts/15-5.jpg",
+    "league": "Premier League",
+    "price": "60.00"
+  }
+},
+{
+  "model": "shirts.shirt",
+  "pk": 9,
+  "fields": {
+    "name": "Liverpool Home Kit",
+    "year": 2000,
+    "description": "This was the season where Liverpool went on to win the treble. They won the League Cup, FA Cup and UEFA cup ending a six year trophy drought. Michael Owen was awarded the European Player of the Year this season.",
+    "link": "https://www.toffs.com/catalog/product/view/id/50447?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGATj1LgrsEuvlcK9eAdHBJ9u57-2I5yGgBVENdcHGnlnMxpmukzRYM4aAtzHEALw_wcB",
+    "brand": "Reebok",
+    "primary_image": "https://www.toffs.com/media/catalog/product/cache/c2607dba22eae670f4d487ee0d4a67c1/l/i/liv0011_1.jpg",
+    "image_two": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/20/thumb_19974_default_news_size_5.jpeg",
+    "image_three": "https://cdn.mos.cms.futurecdn.net/yFDAUDqwmtvW9k3RrhxJgj.jpg",
+    "league": "Premier League",
+    "price": "40.00"
+  }
+},
+{
+  "model": "shirts.shirt",
+  "pk": 10,
+  "fields": {
+    "name": "West Ham Home Kit",
+    "year": 2000,
+    "description": "This shirt was worn by the legendary Paulo Di Canio where he had the famous incident of fighting with a young Frank Lampard over a penalty!",
+    "link": "https://www.prodirectsoccer.com/p/score-draw-retro-west-ham-united-2000-home-shirt-mens-replica-shirts-brown-146906/?svtax3=Shopping_-_Soccer_UK_-_UK_-_Smart_-_Franchise_-_Replica&svtax4=-&svcampaign_id=8686172138&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQ4-Js_g0YXtLi2Q7dxo3aWtQ-c1h4vr-PgBuRdtenSjKj2v3HBnDsaAhjiEALw_wcB",
+    "brand": "Fila",
+    "primary_image": "https://www.prodirectselect.com/productimages/V3_1_Main/146906.jpg?imwidth=768",
+    "image_two": "https://s.hs-data.com/bilder/spieler/gross/13071.jpg",
+    "image_three": "https://pbs.twimg.com/media/BC43xFGCEAAF9oT.jpg",
+    "league": "Premier League",
+    "price": "35.00"
+  }
+},
+{
+  "model": "shirts.shirt",
+  "pk": 11,
+  "fields": {
+    "name": "Juventus No.8 Nedved Shirt",
+    "year": 2001,
+    "description": "This shirt was worn by Pavel Nedved, one of the greatest players in Juventus's history!",
+    "link": "https://vintage-threads.com/products/juventus-football-shirt-black-white-xl-2530?currency=GBP&variant=43006900764886&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&glCountry=GB&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQIWOOn0YnbnO-65gTW5vr0ITgAge_EHvcZgXTbvEfRzPhyJ1IB4WUaArdoEALw_wcB",
+    "brand": "Lotto",
+    "primary_image": "https://cdn.shopify.com/s/files/1/0469/5713/3983/products/IMG_1705_ac3efda4-2086-4314-a336-6d95219a7504_720x.jpg?v=1653832823",
+    "image_two": "https://cdn.shopify.com/s/files/1/0469/5713/3983/products/IMG_1708_8b0f931f-3f31-4a0a-8c7b-1c77c77ebe54_720x.jpg?v=1653832823",
+    "image_three": "https://s3.amazonaws.com/charitycdn/cache/resizedcrop-1c5587eed6c08e548a00b5e0c5c534a1-840x480.jpg",
+    "league": "Seria A",
+    "price": "90.00"
+  }
+}
+]

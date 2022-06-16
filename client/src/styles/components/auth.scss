@@ -1,0 +1,26 @@
+.form-page{
+  flex-grow: 1;
+  form {
+    border-radius: 8px;
+    background: white;
+    padding: 30px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.2);
+    h1{
+      font-size: 1.6rem;
+    }
+    label {
+      font-weight: bold;
+      font-size: 0.9rem;
+    }
+    .input{
+      display: block;
+      width: 100%;
+      border: 1px solid rgba(0,0,0,0.2);
+      margin-bottom: 10px;
+    }
+    p{
+      font-size: 0.8rem;
+      margin: -5px 0 10px;
+    }
+  }
+}

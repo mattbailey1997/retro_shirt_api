@@ -1,0 +1,30 @@
+@import './components/auth';
+
+* {
+  box-sizing: border-box;
+}
+
+primary-image {
+  width: 50px;
+}
+
+.whole-index {
+  display: flex;
+}
+
+.filter-league {
+  width: 25%;
+  position: fixed;
+  margin:top
+}
+
+.searchField {
+  margin-top: 30px;
+}
+
+.card {
+  margin-bottom: 50px;
+  overflow: auto;
+}
+
+
